@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Classical 类型
-# UPDATED: 2026-08-21 13:18:52
-# DOMAIN-SUFFIX: 64
-# TOTAL: 64
+# UPDATED: 2026-09-18 09:14:20
+# DOMAIN-SUFFIX: 65
+# TOTAL: 65
 
 payload:
   - DOMAIN-SUFFIX,hbo
@@ -66,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,maxgo.com
   - DOMAIN-SUFFIX,redbyhbo.com
+  - DOMAIN-SUFFIX,h264.io
   - DOMAIN-SUFFIX,hbogo.co.th
   - DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
   - DOMAIN-SUFFIX,hbo.com.edgesuite.net

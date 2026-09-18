@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-08-21 13:20:30
+# UPDATED: 2026-09-18 09:16:00
 # DOMAIN: 59
-# DOMAIN-SUFFIX: 30
-# TOTAL: 89
+# DOMAIN-SUFFIX: 31
+# TOTAL: 90
 
 payload:
   - plex.llon.net
@@ -68,33 +68,34 @@ payload:
   - emby.p-p.men
   - emby.aiyowei.ml
   - cc.ccemby.tk
-  - +.mius.uk
   - +.pololine.ml
+  - +.nvidia.rip
   - +.sfcj.org
-  - +.yunti.online
+  - +.uhdnow.com
   - +.embyplus.club
   - +.404.sb
   - +.4545.cf
   - +.blueseacdn.com
-  - +.emby.ml
+  - +.yunti.online
   - +.loseremby.org
   - +.plex.direct
   - +.texon.fans
   - +.ju.dog
   - +.123456.al
   - +.hongxingyunmovie.vip
-  - +.nvidia.rip
-  - +.gfwemby.org
   - +.misakaf.org
+  - +.emby.ml
   - +.poloemby.xyz
+  - +.gfwemby.org
   - +.nebula-emby.com
   - +.feverss.cloud
-  - +.stream.ntrrr.top
+  - +.mius.uk
   - +.media-1.co.uk
   - +.sptv.ii00.cc
   - +.sgtv.ii00.cc
   - +.cn-music.mefun.vip
   - +.stream.synn.cc
   - +.emby1.69yun69.com
-  - +.singularity.deja-vu.beauty
+  - +.stream.ntrrr.top
   - +.server2.cn2gias.uk
+  - +.singularity.deja-vu.beauty

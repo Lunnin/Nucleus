@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-08-21 13:20:56
+# UPDATED: 2026-09-18 09:16:26
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 234
 # TOTAL: 246
@@ -27,8 +27,8 @@ payload:
   - +.kindle
   - +.imdb
   - +.aws
-  - +.amazonvideo.com
-  - +.aiv-cdn.net
+  - +.wholefoodsmarket.com
+  - +.wfm.com
   - +.aboutamazon.fr
   - +.aboutamazon.in
   - +.aboutamazon.it
@@ -45,17 +45,17 @@ payload:
   - +.amazon.cl
   - +.amazon.com
   - +.amazon.de
+  - +.primevideo.tv
+  - +.primevideo.org
+  - +.primevideo.info
+  - +.primevideo.com
+  - +.primevideo.cc
+  - +.prime-video.com
+  - +.amazonvideo.com
+  - +.amazonvideo.cc
+  - +.amazonprimevideos.com
+  - +.aiv-cdn.net
   - +.kindleoasis.us
-  - +.kindleoasis.org
-  - +.kindleoasis.jp
-  - +.kindleoasis.info
-  - +.kindleoasisnews.com
-  - +.kindle.jp
-  - +.kindle.in
-  - +.kindleproject.com
-  - +.kindle.fr
-  - +.kindle.es
-  - +.kindle.de
   - +.amazon.dev
   - +.amazon.eg
   - +.amazon.es
@@ -91,7 +91,7 @@ payload:
   - +.amzn.asia
   - +.amzn.com
   - +.amzn.to
-  - +.primevideo.tv
+  - +.awstrust.com
   - +.associates-amazon.com
   - +.gameon-masters.com
   - +.gdansk-amazon.com
@@ -106,27 +106,16 @@ payload:
   - +.alexa.com
   - +.audible.com
   - +.createspace.com
-  - +.primevideo.org
-  - +.amazonprimevideos.com
-  - +.amazonvideo.cc
-  - +.aboutamazon.es
-  - +.prime-video.com
-  - +.primevideo.cc
-  - +.primevideo.com
-  - +.amznl.com
-  - +.aboutamazon.eu
-  - +.primevideo.info
-  - +.kindle.com
-  - +.kindleoasis.com
-  - +.wfm.com
+  - +.amazontrust.com
   - +.wholecitiesfoundation.org
   - +.wholefoods.com
-  - +.wholefoodsmarket.com
+  - +.aboutamazon.es
   - +.wholekidsfoundation.org
   - +.wholeplanetfoundation.org
-  - +.kindle.it
-  - +.amazontrust.com
-  - +.awstrust.com
+  - +.kindleoasis.org
+  - +.amznl.com
+  - +.aboutamazon.eu
+  - +.kindleoasis.jp
   - +.ss2.us
   - +.aboutamazon.de
   - +.awsbraket.com
@@ -175,29 +164,40 @@ payload:
   - +.amzndns.com
   - +.amzndns.org
   - +.amzndns.net
-  - +.a2z.com
-  - +.media-imdb.com
-  - +.imdb.to
-  - +.imdb.com
+  - +.kindleoasis.info
+  - +.kindleoasisnews.com
+  - +.kindle.jp
+  - +.kindle.in
   - +.aboutamazon.com
   - +.boxofficemojo.com
-  - +.amazon.co.jp
-  - +.amazon.co.za
+  - +.imdb.com
+  - +.imdb.to
+  - +.media-imdb.com
+  - +.a2z.com
+  - +.kindle.it
+  - +.kindleoasis.com
+  - +.kindle.com
+  - +.kindle.de
+  - +.kindle.es
+  - +.kindle.fr
+  - +.kindleproject.com
+  - +.amazon.com.co
+  - +.amazonaws.co.uk
   - +.wholefoodsmarket.co.uk
-  - +.kindle.co.uk
   - +.amazon.com.tr
   - +.amazon.com.ng
+  - +.kindle.co.jp
   - +.amzndns.co.uk
-  - +.amazonaws.co.uk
-  - +.amazon.com.au
-  - +.amazon.com.co
-  - +.amazon.com.br
-  - +.amazon.com.mx
-  - +.amazon.co.uk
+  - +.kindle.co.uk
   - +.amazon.com.be
+  - +.amazon.com.mx
+  - +.amazon.com.br
+  - +.amazon.com.au
+  - +.amazon.co.za
+  - +.amazon.co.uk
+  - +.amazon.co.jp
   - +.aboutamazon.com.au
   - +.aboutamazon.co.uk
-  - +.kindle.co.jp
   - +.aboutamazon.cn
   - +.alexafund.cn
   - +.alexafund.com.cn
@@ -224,8 +224,6 @@ payload:
   - images-cn-8.ssl-images-amazon.com
   - +.amazon-adsystem.com
   - +.serving-sys.com
-  - +.amazonprimevideo.cn
-  - +.amazonprimevideo.com.cn
   - +.a2z.org.cn
   - +.amazonaws.cn
   - +.amazonaws.com.cn
@@ -255,3 +253,5 @@ payload:
   - +.kindle.cn
   - +.kindleoasis.cn
   - +.kindleoasis.com.cn
+  - +.amazonprimevideo.cn
+  - +.amazonprimevideo.com.cn

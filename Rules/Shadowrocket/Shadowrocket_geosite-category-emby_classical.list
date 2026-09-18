@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 RULE-SET 类型
-# UPDATED: 2026-08-21 13:34:32
+# UPDATED: 2026-09-18 13:06:29
 # DOMAIN: 59
-# DOMAIN-SUFFIX: 30
-# TOTAL: 89
+# DOMAIN-SUFFIX: 31
+# TOTAL: 90
 
 DOMAIN,plex.llon.net
 DOMAIN,emby.nexitally.com
@@ -67,33 +67,34 @@ DOMAIN,play.charontv.com
 DOMAIN,emby.p-p.men
 DOMAIN,emby.aiyowei.ml
 DOMAIN,cc.ccemby.tk
-DOMAIN-SUFFIX,mius.uk
 DOMAIN-SUFFIX,pololine.ml
+DOMAIN-SUFFIX,nvidia.rip
 DOMAIN-SUFFIX,sfcj.org
-DOMAIN-SUFFIX,yunti.online
+DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,embyplus.club
 DOMAIN-SUFFIX,404.sb
 DOMAIN-SUFFIX,4545.cf
 DOMAIN-SUFFIX,blueseacdn.com
-DOMAIN-SUFFIX,emby.ml
+DOMAIN-SUFFIX,yunti.online
 DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,texon.fans
 DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,hongxingyunmovie.vip
-DOMAIN-SUFFIX,nvidia.rip
-DOMAIN-SUFFIX,gfwemby.org
 DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,gfwemby.org
 DOMAIN-SUFFIX,nebula-emby.com
 DOMAIN-SUFFIX,feverss.cloud
-DOMAIN-SUFFIX,stream.ntrrr.top
+DOMAIN-SUFFIX,mius.uk
 DOMAIN-SUFFIX,media-1.co.uk
 DOMAIN-SUFFIX,sptv.ii00.cc
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,cn-music.mefun.vip
 DOMAIN-SUFFIX,stream.synn.cc
 DOMAIN-SUFFIX,emby1.69yun69.com
-DOMAIN-SUFFIX,singularity.deja-vu.beauty
+DOMAIN-SUFFIX,stream.ntrrr.top
 DOMAIN-SUFFIX,server2.cn2gias.uk
+DOMAIN-SUFFIX,singularity.deja-vu.beauty

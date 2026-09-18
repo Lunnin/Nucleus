@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-08-21 13:31:37
+# UPDATED: 2026-09-18 13:02:52
 # HOST: 12
 # HOST-SUFFIX: 234
 # TOTAL: 246
@@ -26,8 +26,8 @@ HOST-SUFFIX,zappos,DIRECT
 HOST-SUFFIX,kindle,DIRECT
 HOST-SUFFIX,imdb,DIRECT
 HOST-SUFFIX,aws,DIRECT
-HOST-SUFFIX,amazonvideo.com,DIRECT
-HOST-SUFFIX,aiv-cdn.net,DIRECT
+HOST-SUFFIX,wholefoodsmarket.com,DIRECT
+HOST-SUFFIX,wfm.com,DIRECT
 HOST-SUFFIX,aboutamazon.fr,DIRECT
 HOST-SUFFIX,aboutamazon.in,DIRECT
 HOST-SUFFIX,aboutamazon.it,DIRECT
@@ -44,17 +44,17 @@ HOST-SUFFIX,amazon.ca,DIRECT
 HOST-SUFFIX,amazon.cl,DIRECT
 HOST-SUFFIX,amazon.com,DIRECT
 HOST-SUFFIX,amazon.de,DIRECT
+HOST-SUFFIX,primevideo.tv,DIRECT
+HOST-SUFFIX,primevideo.org,DIRECT
+HOST-SUFFIX,primevideo.info,DIRECT
+HOST-SUFFIX,primevideo.com,DIRECT
+HOST-SUFFIX,primevideo.cc,DIRECT
+HOST-SUFFIX,prime-video.com,DIRECT
+HOST-SUFFIX,amazonvideo.com,DIRECT
+HOST-SUFFIX,amazonvideo.cc,DIRECT
+HOST-SUFFIX,amazonprimevideos.com,DIRECT
+HOST-SUFFIX,aiv-cdn.net,DIRECT
 HOST-SUFFIX,kindleoasis.us,DIRECT
-HOST-SUFFIX,kindleoasis.org,DIRECT
-HOST-SUFFIX,kindleoasis.jp,DIRECT
-HOST-SUFFIX,kindleoasis.info,DIRECT
-HOST-SUFFIX,kindleoasisnews.com,DIRECT
-HOST-SUFFIX,kindle.jp,DIRECT
-HOST-SUFFIX,kindle.in,DIRECT
-HOST-SUFFIX,kindleproject.com,DIRECT
-HOST-SUFFIX,kindle.fr,DIRECT
-HOST-SUFFIX,kindle.es,DIRECT
-HOST-SUFFIX,kindle.de,DIRECT
 HOST-SUFFIX,amazon.dev,DIRECT
 HOST-SUFFIX,amazon.eg,DIRECT
 HOST-SUFFIX,amazon.es,DIRECT
@@ -90,7 +90,7 @@ HOST-SUFFIX,amazonvideodirect.com,DIRECT
 HOST-SUFFIX,amzn.asia,DIRECT
 HOST-SUFFIX,amzn.com,DIRECT
 HOST-SUFFIX,amzn.to,DIRECT
-HOST-SUFFIX,primevideo.tv,DIRECT
+HOST-SUFFIX,awstrust.com,DIRECT
 HOST-SUFFIX,associates-amazon.com,DIRECT
 HOST-SUFFIX,gameon-masters.com,DIRECT
 HOST-SUFFIX,gdansk-amazon.com,DIRECT
@@ -105,27 +105,16 @@ HOST-SUFFIX,yamaxun.com,DIRECT
 HOST-SUFFIX,alexa.com,DIRECT
 HOST-SUFFIX,audible.com,DIRECT
 HOST-SUFFIX,createspace.com,DIRECT
-HOST-SUFFIX,primevideo.org,DIRECT
-HOST-SUFFIX,amazonprimevideos.com,DIRECT
-HOST-SUFFIX,amazonvideo.cc,DIRECT
-HOST-SUFFIX,aboutamazon.es,DIRECT
-HOST-SUFFIX,prime-video.com,DIRECT
-HOST-SUFFIX,primevideo.cc,DIRECT
-HOST-SUFFIX,primevideo.com,DIRECT
-HOST-SUFFIX,amznl.com,DIRECT
-HOST-SUFFIX,aboutamazon.eu,DIRECT
-HOST-SUFFIX,primevideo.info,DIRECT
-HOST-SUFFIX,kindle.com,DIRECT
-HOST-SUFFIX,kindleoasis.com,DIRECT
-HOST-SUFFIX,wfm.com,DIRECT
+HOST-SUFFIX,amazontrust.com,DIRECT
 HOST-SUFFIX,wholecitiesfoundation.org,DIRECT
 HOST-SUFFIX,wholefoods.com,DIRECT
-HOST-SUFFIX,wholefoodsmarket.com,DIRECT
+HOST-SUFFIX,aboutamazon.es,DIRECT
 HOST-SUFFIX,wholekidsfoundation.org,DIRECT
 HOST-SUFFIX,wholeplanetfoundation.org,DIRECT
-HOST-SUFFIX,kindle.it,DIRECT
-HOST-SUFFIX,amazontrust.com,DIRECT
-HOST-SUFFIX,awstrust.com,DIRECT
+HOST-SUFFIX,kindleoasis.org,DIRECT
+HOST-SUFFIX,amznl.com,DIRECT
+HOST-SUFFIX,aboutamazon.eu,DIRECT
+HOST-SUFFIX,kindleoasis.jp,DIRECT
 HOST-SUFFIX,ss2.us,DIRECT
 HOST-SUFFIX,aboutamazon.de,DIRECT
 HOST-SUFFIX,awsbraket.com,DIRECT
@@ -174,29 +163,40 @@ HOST-SUFFIX,awsedstart.com,DIRECT
 HOST-SUFFIX,amzndns.com,DIRECT
 HOST-SUFFIX,amzndns.org,DIRECT
 HOST-SUFFIX,amzndns.net,DIRECT
-HOST-SUFFIX,a2z.com,DIRECT
-HOST-SUFFIX,media-imdb.com,DIRECT
-HOST-SUFFIX,imdb.to,DIRECT
-HOST-SUFFIX,imdb.com,DIRECT
+HOST-SUFFIX,kindleoasis.info,DIRECT
+HOST-SUFFIX,kindleoasisnews.com,DIRECT
+HOST-SUFFIX,kindle.jp,DIRECT
+HOST-SUFFIX,kindle.in,DIRECT
 HOST-SUFFIX,aboutamazon.com,DIRECT
 HOST-SUFFIX,boxofficemojo.com,DIRECT
-HOST-SUFFIX,amazon.co.jp,DIRECT
-HOST-SUFFIX,amazon.co.za,DIRECT
+HOST-SUFFIX,imdb.com,DIRECT
+HOST-SUFFIX,imdb.to,DIRECT
+HOST-SUFFIX,media-imdb.com,DIRECT
+HOST-SUFFIX,a2z.com,DIRECT
+HOST-SUFFIX,kindle.it,DIRECT
+HOST-SUFFIX,kindleoasis.com,DIRECT
+HOST-SUFFIX,kindle.com,DIRECT
+HOST-SUFFIX,kindle.de,DIRECT
+HOST-SUFFIX,kindle.es,DIRECT
+HOST-SUFFIX,kindle.fr,DIRECT
+HOST-SUFFIX,kindleproject.com,DIRECT
+HOST-SUFFIX,amazon.com.co,DIRECT
+HOST-SUFFIX,amazonaws.co.uk,DIRECT
 HOST-SUFFIX,wholefoodsmarket.co.uk,DIRECT
-HOST-SUFFIX,kindle.co.uk,DIRECT
 HOST-SUFFIX,amazon.com.tr,DIRECT
 HOST-SUFFIX,amazon.com.ng,DIRECT
+HOST-SUFFIX,kindle.co.jp,DIRECT
 HOST-SUFFIX,amzndns.co.uk,DIRECT
-HOST-SUFFIX,amazonaws.co.uk,DIRECT
-HOST-SUFFIX,amazon.com.au,DIRECT
-HOST-SUFFIX,amazon.com.co,DIRECT
-HOST-SUFFIX,amazon.com.br,DIRECT
-HOST-SUFFIX,amazon.com.mx,DIRECT
-HOST-SUFFIX,amazon.co.uk,DIRECT
+HOST-SUFFIX,kindle.co.uk,DIRECT
 HOST-SUFFIX,amazon.com.be,DIRECT
+HOST-SUFFIX,amazon.com.mx,DIRECT
+HOST-SUFFIX,amazon.com.br,DIRECT
+HOST-SUFFIX,amazon.com.au,DIRECT
+HOST-SUFFIX,amazon.co.za,DIRECT
+HOST-SUFFIX,amazon.co.uk,DIRECT
+HOST-SUFFIX,amazon.co.jp,DIRECT
 HOST-SUFFIX,aboutamazon.com.au,DIRECT
 HOST-SUFFIX,aboutamazon.co.uk,DIRECT
-HOST-SUFFIX,kindle.co.jp,DIRECT
 HOST-SUFFIX,aboutamazon.cn,DIRECT
 HOST-SUFFIX,alexafund.cn,DIRECT
 HOST-SUFFIX,alexafund.com.cn,DIRECT
@@ -223,8 +223,6 @@ HOST,images-cn.ssl-images-amazon.com,DIRECT
 HOST,images-cn-8.ssl-images-amazon.com,DIRECT
 HOST-SUFFIX,amazon-adsystem.com,DIRECT
 HOST-SUFFIX,serving-sys.com,DIRECT
-HOST-SUFFIX,amazonprimevideo.cn,DIRECT
-HOST-SUFFIX,amazonprimevideo.com.cn,DIRECT
 HOST-SUFFIX,a2z.org.cn,DIRECT
 HOST-SUFFIX,amazonaws.cn,DIRECT
 HOST-SUFFIX,amazonaws.com.cn,DIRECT
@@ -254,3 +252,5 @@ HOST-SUFFIX,amzndns-cn.net,DIRECT
 HOST-SUFFIX,kindle.cn,DIRECT
 HOST-SUFFIX,kindleoasis.cn,DIRECT
 HOST-SUFFIX,kindleoasis.com.cn,DIRECT
+HOST-SUFFIX,amazonprimevideo.cn,DIRECT
+HOST-SUFFIX,amazonprimevideo.com.cn,DIRECT

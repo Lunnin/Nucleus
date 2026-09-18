@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Shadowrocket 规则中的 DOMAIN-SET 类型
-# UPDATED: 2026-08-21 13:36:07
-# DOMAIN: 5
+# UPDATED: 2026-09-18 13:08:03
+# DOMAIN: 6
 # HOST-SUFFIX: 31
-# TOTAL: 36
+# TOTAL: 37
 
 .bytedapm.com
 .muscdn.com
@@ -39,6 +39,7 @@
 .tiktokv.com.edgekey.net
 .tiktokv.com.edgesuite.net
 p16-tiktokcdn-com.akamaized.net
+p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 roovza-launches.appsflyersdk.com
 roovza.inapps.appsflyersdk.com
 roovza.launches.appsflyersdk.com

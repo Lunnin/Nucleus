@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-08-21 13:30:49
-# HOST: 887
-# HOST-SUFFIX: 10
-# TOTAL: 897
+# UPDATED: 2026-09-18 13:02:01
+# HOST: 936
+# HOST-SUFFIX: 12
+# TOTAL: 948
 
 HOST,1500020991.vodplayer.wxamedia.com,REJECT
 HOST,1500022744.vodplayer.wxamedia.com,REJECT
@@ -16,7 +16,9 @@ HOST,8rn1y79f02-1.algolianet.com,REJECT
 HOST,a0.app.xiaomi.com,REJECT
 HOST,aaid.umeng.com,REJECT
 HOST,abtest-ch.snssdk.com,REJECT
+HOST,ad-api.4pyun.com,REJECT
 HOST,ad-cdn.qingting.fm,REJECT
+HOST,ad-files.4pyun.com,REJECT
 HOST,ad-scope.com,REJECT
 HOST,ad-scope.com.cn,REJECT
 HOST,ad-sdk-config.youdao.com,REJECT
@@ -25,16 +27,20 @@ HOST,ad-splash.hktvmall.com,REJECT
 HOST,ad.12306.cn,REJECT
 HOST,ad.51wnl.com,REJECT
 HOST,ad.api.3g.youku.com,REJECT
+HOST,ad.bn.netease.com,REJECT
 HOST,ad.bwton.com,REJECT
 HOST,ad.cctv.com,REJECT
 HOST,ad.cyapi.cn,REJECT
 HOST,ad.doubleclick.net,REJECT
+HOST,ad.duoduo.link,REJECT
 HOST,ad.gameley.com,REJECT
 HOST,ad.hpplay.cn,REJECT
 HOST,ad.iot.360.cn,REJECT
 HOST,ad.jia.360.cn,REJECT
 HOST,ad.life.360.cn,REJECT
+HOST,ad.maoyan.com,REJECT
 HOST,ad.partner.gifshow.com,REJECT
+HOST,ad.player.baidu.com,REJECT
 HOST,ad.qingting.fm,REJECT
 HOST,ad.qq.com,REJECT
 HOST,ad.richmob.cn,REJECT
@@ -43,17 +49,20 @@ HOST,ad.shunchangzhixing.com,REJECT
 HOST,ad.tencentmusic.com,REJECT
 HOST,ad.toutiao.com,REJECT
 HOST,ad.v3mh.com,REJECT
-HOST,ad.weibo.com,REJECT
 HOST,ad.winrar.com.cn,REJECT
 HOST,ad.ximalaya.com,REJECT
 HOST,ad.xunkids.com,REJECT
 HOST,ad.zijieapi.com,REJECT
+HOST,ad4.sina.com.cn,REJECT
 HOST,adapi.izuiyou.com,REJECT
 HOST,adapi.yynetwk.com,REJECT
+HOST,adash-emas.cn-hangzhou.aliyuncs.com,REJECT
 HOST,adashbc.ut.taobao.com,REJECT
 HOST,adashx.m.taobao.com,REJECT
 HOST,adashxgc.ut.taobao.com,REJECT
+HOST,adbox.sina.com.cn,REJECT
 HOST,adc.hpplay.cn,REJECT
+HOST,adcanvas.com,REJECT
 HOST,adcdn.hpplay.cn,REJECT
 HOST,adcdn.tencentmusic.com,REJECT
 HOST,adclick.g.doubleclick.net,REJECT
@@ -71,7 +80,11 @@ HOST,adjust.cn,REJECT
 HOST,adjust.com,REJECT
 HOST,adks.hpplay.cn,REJECT
 HOST,adlink-api.huan.tv,REJECT
+HOST,adlog.vivo.com.cn,REJECT
 HOST,adm.funshion.com,REJECT
+HOST,admarketing.yahoo.net,REJECT
+HOST,admobile.top,REJECT
+HOST,adreq.vivo.com.cn,REJECT
 HOST,ads-api-o.api.leiniao.com,REJECT
 HOST,ads-api.tiktok.com,REJECT
 HOST,ads-api.twitter.com,REJECT
@@ -81,17 +94,20 @@ HOST,ads-jp.tiktok.com,REJECT
 HOST,ads-marketing-vivofs.vivo.com.cn,REJECT
 HOST,ads-sdk-api.ranfenghd.com,REJECT
 HOST,ads-sg.tiktok.com,REJECT
+HOST,ads-shopping.shouqianba.com,REJECT
 HOST,ads-video-al.xhscdn.com,REJECT
 HOST,ads-video-qc.xhscdn.com,REJECT
 HOST,ads.95516.com,REJECT
 HOST,ads.adfunlink.com,REJECT
 HOST,ads.auctions.yahoo.com,REJECT
 HOST,ads.cup.com.cn,REJECT
+HOST,ads.finance.yahoo.com,REJECT
 HOST,ads.google.cn,REJECT
 HOST,ads.huan.tv,REJECT
 HOST,ads.huantest.com,REJECT
 HOST,ads.icloseli.cn,REJECT
 HOST,ads.inmobi.com,REJECT
+HOST,ads.ishansong.com,REJECT
 HOST,ads.linkedin.com,REJECT
 HOST,ads.pinterest.com,REJECT
 HOST,ads.pubmatic.com,REJECT
@@ -110,6 +126,7 @@ HOST,ads5-normal-hl.zijieapi.com,REJECT
 HOST,ads5-normal-lf.zijieapi.com,REJECT
 HOST,ads5-normal-lq.zijieapi.com,REJECT
 HOST,ads5-normal.zijieapi.com,REJECT
+HOST,adscdn.baidu.com,REJECT
 HOST,adsdk.vivo.com.cn,REJECT
 HOST,adse.test.ximalaya.com,REJECT
 HOST,adse.wsa.ximalaya.com,REJECT
@@ -131,9 +148,12 @@ HOST,adslvfile.qq.com,REJECT
 HOST,adsmart.konka.com,REJECT
 HOST,adsmind.gdtimg.com,REJECT
 HOST,adsmind.ugdtimg.com,REJECT
+HOST,adsmoloco.com,REJECT
 HOST,adsp.xunlei.com,REJECT
+HOST,adspecs.yahoo.com,REJECT
 HOST,adstat.izuiyou.com,REJECT
 HOST,adstats.tencentmusic.com,REJECT
+HOST,adstextview.qq.com,REJECT
 HOST,adstore-1252524079.file.myqcloud.com,REJECT
 HOST,adstore-index-1252524079.file.myqcloud.com,REJECT
 HOST,adstrategy.biz.weibo.com,REJECT
@@ -164,6 +184,7 @@ HOST,adx-cn.anythinktech.com,REJECT
 HOST,adx-drcn.op.dbankcloud.cn,REJECT
 HOST,adx-open-service.youku.com,REJECT
 HOST,adx-os.anythinktech.com,REJECT
+HOST,adx-os.bridgeoos.com,REJECT
 HOST,adx-saas.advlion.com,REJECT
 HOST,adx-strategy-api-cn.statisticslinks.com,REJECT
 HOST,adx.ads.heytapmobi.com,REJECT
@@ -172,7 +193,9 @@ HOST,adx.appsdk.com.cn,REJECT
 HOST,adx.sogaha.cn,REJECT
 HOST,adx.tuia.cn,REJECT
 HOST,adxlog-adnet.vivo.com.cn,REJECT
+HOST,adxlog.vivo.com.cn,REJECT
 HOST,adxserver.ad.cmvideo.cn,REJECT
+HOST,adxstatic.vivo.com.cn,REJECT
 HOST,aegis.qq.com,REJECT
 HOST,aem.dentsuchina.cn,REJECT
 HOST,afs.googlesyndication.com,REJECT
@@ -182,6 +205,7 @@ HOST,ali-ad.a.yximgs.com,REJECT
 HOST,ali-p2p-v2.pull.yximgs.com,REJECT
 HOST,alicoccdncnc-xn.inter.71edge.com,REJECT
 HOST,alicoccdnct-xn.inter.71edge.com,REJECT
+HOST,alltbcsp2p.baidu.com,REJECT
 HOST,alog.umeng.com,REJECT
 HOST,alogus.umeng.com,REJECT
 HOST,als.baidu.com,REJECT
@@ -272,6 +296,7 @@ HOST,bj-td-menta-01-callback.advlion.com,REJECT
 HOST,bj.ad.track.66mobi.com,REJECT
 HOST,books-analytics-events.apple.com,REJECT
 HOST,bootpreload.uve.weibo.com,REJECT
+HOST,brandadsstatic.vivo.com.cn,REJECT
 HOST,browser.events.data.msn.cn,REJECT
 HOST,browser.events.data.msn.com,REJECT
 HOST,browsercfg-drcn.cloud.dbankcloud.cn,REJECT
@@ -316,6 +341,7 @@ HOST,cnlogs.umengcloud.com,REJECT
 HOST,cnzz.com,REJECT
 HOST,collect.kugou.com,REJECT
 HOST,commdata.v.qq.com,REJECT
+HOST,commercial.shouji.360.cn,REJECT
 HOST,conf.hpplay.cn,REJECT
 HOST,config.chsmarttv.com,REJECT
 HOST,config.inmobi.com,REJECT
@@ -346,6 +372,7 @@ HOST,download.changhong.upgrade2.huan.tv,REJECT
 HOST,downloadxml.changhong.upgrade2.huan.tv,REJECT
 HOST,dsp-x.jd.com,REJECT
 HOST,dsp.fcbox.com,REJECT
+HOST,dsplog-adnet.vivo.com.cn,REJECT
 HOST,dualstack-logs.amap.com,REJECT
 HOST,dxp.baidu.com,REJECT
 HOST,dyp2p-ali.douyucdn.cn,REJECT
@@ -361,6 +388,7 @@ HOST,event.tradplusad.com,REJECT
 HOST,events-drcn.op.dbankcloud.cn,REJECT
 HOST,events.reddit.com,REJECT
 HOST,events.redditmedia.com,REJECT
+HOST,eventv1.leidong.rayenergytech.com,REJECT
 HOST,fancyapi.com,REJECT
 HOST,fclog.baidu.com,REJECT
 HOST,feed-image.baidu.com,REJECT
@@ -395,6 +423,8 @@ HOST,grs.dbankcloud.com,REJECT
 HOST,grs.hicloud.com,REJECT
 HOST,gslb.hpplay.cn,REJECT
 HOST,gvideo.qpic.cn,REJECT
+HOST,gw5.push.mcp.weibo.cn,REJECT
+HOST,gw6.push.mcp.weibo.cn,REJECT
 HOST,h-adashx.ut.taobao.com,REJECT
 HOST,h.trace.qq.com,REJECT
 HOST,h5.analytics.126.net,REJECT
@@ -415,6 +445,8 @@ HOST,httpdns.ocloud.oppomobile.com,REJECT
 HOST,hugelog.fcbox.com,REJECT
 HOST,huichuan-mc.sm.cn,REJECT
 HOST,huichuan.sm.cn,REJECT
+HOST,huodong.ios.shouji.360.cn,REJECT
+HOST,huodong.weibo.cn,REJECT
 HOST,hw-ot-ad.a.yximgs.com,REJECT
 HOST,hw-p2p-pull.video-voip.com,REJECT
 HOST,hw-p2p.pull.yximgs.com,REJECT
@@ -426,10 +458,11 @@ HOST,i.l-new.inmobicdn.net,REJECT
 HOST,i.l.inmobicdn.net,REJECT
 HOST,iad.apple.com,REJECT
 HOST,iad.g.163.com,REJECT
+HOST,iadcontent.apple.com,REJECT
 HOST,iadctest.qwapi.com,REJECT
+HOST,iadmoo.apple.com,REJECT
 HOST,iadmusicmat.music.126.net,REJECT
 HOST,iadsdk.apple.com,REJECT
-HOST,iadworkbench.apple.com,REJECT
 HOST,ifacelog.iqiyi.com,REJECT
 HOST,ifs.tanx.com,REJECT
 HOST,ii.gdt.qq.com,REJECT
@@ -445,6 +478,8 @@ HOST,impression-asia.chinaliftoff.io,REJECT
 HOST,impression-asia.liftoff.io,REJECT
 HOST,impression.appsflyer.com,REJECT
 HOST,in.treasuredata.com,REJECT
+HOST,init.supersonicads.com,REJECT
+HOST,inner-hw.huazirc.com,REJECT
 HOST,ios.bugly.qq.com,REJECT
 HOST,iot-eu-logser.realme.com,REJECT
 HOST,iot-logser.realme.com,REJECT
@@ -467,6 +502,7 @@ HOST,ks-p2p-v2.pull.yximgs.com,REJECT
 HOST,ks-p2p.pull.yximgs.com,REJECT
 HOST,ks.ferlytc.com,REJECT
 HOST,ks.pull.yximgs.com,REJECT
+HOST,kwpush.kuwo.cn,REJECT
 HOST,l6.fancyapi.com,REJECT
 HOST,launcher.smart-tv.cn,REJECT
 HOST,launcherimg.smart-tv.cn,REJECT
@@ -516,17 +552,21 @@ HOST,log1.cmpassport.com,REJECT
 HOST,logbak.hicloud.com,REJECT
 HOST,logrcv.aiclk.com,REJECT
 HOST,logrcv.yunxish.com,REJECT
+HOST,logs-bigdata.yeehaw.com.cn,REJECT
 HOST,logs.amap.com,REJECT
 HOST,logservice.hicloud.com,REJECT
 HOST,logservice1.hicloud.com,REJECT
 HOST,logtj.kugou.com,REJECT
 HOST,logupdate.avlyun.sec.miui.com,REJECT
+HOST,logv2.ireader.com,REJECT
 HOST,logwebs.kugou.com,REJECT
+HOST,lookup.api.bsb.baidu.com,REJECT
 HOST,luimg.baidu.com,REJECT
 HOST,m-adnet.hiaiabc.com,REJECT
 HOST,m.ad.zhangyue.com,REJECT
 HOST,m.atm.youku.com,REJECT
 HOST,m.shenshiads.com,REJECT
+HOST,m1.ad.10010.com,REJECT
 HOST,mapi.m.jd.com,REJECT
 HOST,masdkv6.3g.qq.com,REJECT
 HOST,mazu.m.qq.com,REJECT
@@ -633,6 +673,7 @@ HOST,pms.mb.qq.com,REJECT
 HOST,policy.video.ptqy.gitv.tv,REJECT
 HOST,pos.baidu.com,REJECT
 HOST,prod-mediate-events.applovin.com,REJECT
+HOST,prom-sdkv2.jysper.net,REJECT
 HOST,promotion-partner.kuaishou.com,REJECT
 HOST,proxy.advp.apple.com,REJECT
 HOST,public.gdtimg.com,REJECT
@@ -643,6 +684,8 @@ HOST,qn-cdnfile1pcdn.msstatic.com,REJECT
 HOST,qqdata.ab.qq.com,REJECT
 HOST,qzs.gdtimg.com,REJECT
 HOST,recommend-drcn.hms.dbankcloud.cn,REJECT
+HOST,report.dxunion.cn,REJECT
+HOST,report.tencentmusic.com,REJECT
 HOST,report.tv.kohesport.qq.com,REJECT
 HOST,res.hubcloud.com.cn,REJECT
 HOST,res1.applovin.com,REJECT
@@ -666,7 +709,7 @@ HOST,s1.cdn-sg.advlion.com,REJECT
 HOST,s8t.teads.tv,REJECT
 HOST,saad.ms.zhangyue.net,REJECT
 HOST,saas.hpplay.cn,REJECT
-HOST,safebrowsing.urlsec.gg.com,REJECT
+HOST,safebrowsing.urlsec.qq.com,REJECT
 HOST,samsung-com.112.2o7.net,REJECT
 HOST,samsungads.com,REJECT
 HOST,saxysec.com,REJECT
@@ -792,8 +835,10 @@ HOST,tracelog-debug.qquanquan.com,REJECT
 HOST,tracelog-debug.yunxish.com,REJECT
 HOST,track.lc.quark.cn,REJECT
 HOST,track.uc.cn,REJECT
+HOST,tracker-prd.aldi.com.cn,REJECT
 HOST,tracker.ai.xiaomi.com,REJECT
 HOST,tracker.gitee.com,REJECT
+HOST,tracking-adnet.vivo.com.cn,REJECT
 HOST,tracking.miui.com,REJECT
 HOST,tracking.rus.miui.com,REJECT
 HOST,tuiguang.meitu.com,REJECT
@@ -818,8 +863,10 @@ HOST,umengacs.m.taobao.com,REJECT
 HOST,umengjmacs.m.taobao.com,REJECT
 HOST,umini.shujupie.com,REJECT
 HOST,union-mlog.bigda.com,REJECT
+HOST,union-record.oss-cn-zhangjiakou.aliyuncs.com,REJECT
 HOST,union.baidu.cn,REJECT
 HOST,union.baidu.com,REJECT
+HOST,unityads.unity3d.com,REJECT
 HOST,update.avlyun.sec.miui.com,REJECT
 HOST,update.lejiao.tv,REJECT
 HOST,update0.aiclk.com,REJECT
@@ -868,6 +915,7 @@ HOST,win.gdt.qq.com,REJECT
 HOST,wn.x.jd.com,REJECT
 HOST,ws-keyboard.shouji.sogou.com,REJECT
 HOST,ws.sj.qq.com,REJECT
+HOST,ws.tapjoyads.com,REJECT
 HOST,wv.inner-active.mobi,REJECT
 HOST,wwads.cn,REJECT
 HOST,wxa.wxs.qq.com,REJECT
@@ -891,6 +939,7 @@ HOST,ykad-data.cp31.ott.cibntv.net,REJECT
 HOST,ykad-data.youku.com,REJECT
 HOST,ykad-gateway.youku.com,REJECT
 HOST,ytx-file.110route.cn,REJECT
+HOST,yumao.puata.info,REJECT
 HOST,zeus.ad.xiaomi.com,REJECT
 HOST,zhihu-web-analytics.zhihu.com,REJECT
 HOST,zjres-ad.kajicam.com,REJECT
@@ -899,9 +948,11 @@ HOST-SUFFIX,1rtb.com,REJECT
 HOST-SUFFIX,a.market.xiaomi.com,REJECT
 HOST-SUFFIX,ad.gameley.com,REJECT
 HOST-SUFFIX,adintl.cn,REJECT
+HOST-SUFFIX,adsmoloco.com,REJECT
 HOST-SUFFIX,adx.adwangmai.com,REJECT
 HOST-SUFFIX,data.hicloud.com,REJECT
 HOST-SUFFIX,ubixioe.com,REJECT
+HOST-SUFFIX,unityads.unity3d.com,REJECT
 HOST-SUFFIX,vlion.cn,REJECT
 HOST-SUFFIX,yfanads.com,REJECT
 HOST-SUFFIX,zhangyuyidong.cn,REJECT

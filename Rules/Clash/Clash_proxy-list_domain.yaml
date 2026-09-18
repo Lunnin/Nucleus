@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-08-21 13:21:15
-# DOMAIN: 748
-# DOMAIN-SUFFIX: 26308
-# TOTAL: 27056
+# UPDATED: 2026-09-18 09:16:49
+# DOMAIN: 750
+# DOMAIN-SUFFIX: 26342
+# TOTAL: 27092
 
 payload:
   - +.000webhost.com
@@ -45,6 +45,8 @@ payload:
   - +.119474.xyz
   - +.11jav.com
   - +.123-hp.com
+  - +.123av.com
+  - +.123av.me
   - +.123bin.cc
   - +.123dapp.com
   - +.123dappipad.com
@@ -783,6 +785,7 @@ payload:
   - +.adguard.io
   - +.adguard.org
   - +.adguardaccount.com
+  - +.adguardaccount.net
   - +.adguardcdn.com
   - +.adguardvpn.com
   - +.adhelpnews.com
@@ -1813,6 +1816,7 @@ payload:
   - +.aodahl.com
   - +.aofriend.com
   - +.aokwholesale.net
+  - +.aolcdn.com
   - +.aomedia.org
   - +.aomiwang.com
   - +.aorus.com
@@ -1833,6 +1837,7 @@ payload:
   - +.api.moomoobull.com
   - +.api.news
   - +.api.palworldgame.com
+  - +.api.shuaiapi.com
   - +.apiary.io
   - +.apiauto.ru
   - +.apibay.org
@@ -3708,6 +3713,7 @@ payload:
   - +.blackandstacked.com
   - +.blackboxgames.com
   - +.blacked.com
+  - +.blackedraw.com
   - +.blackfridaydrebeatsnew.com
   - +.blackfridaydrebeatsshop.com
   - +.blackhomeporn.com
@@ -4495,6 +4501,7 @@ payload:
   - +.brewmp.com
   - +.briantreepayments.net
   - +.briantreepayments.tv
+  - +.briarproject.org
   - +.bridge-studio.co.uk
   - +.bridgebim.com
   - +.bridgestone
@@ -9620,6 +9627,8 @@ payload:
   - +.gate.cc
   - +.gate.com
   - +.gate.io
+  - +.gate.tv
+  - +.gateapi.io
   - +.gatecoin.com
   - +.gatedata.org
   - +.gateimg.com
@@ -9800,6 +9809,7 @@ payload:
   - +.getlantern.org
   - +.getmalus.com
   - +.getmdl.io
+  - +.getmonero.org
   - +.getnews.jp
   - +.getoutline.org
   - +.getpaint.net
@@ -10639,6 +10649,7 @@ payload:
   - +.h-webtoon.com
   - +.h0930.com
   - +.h18ani1.vip
+  - +.h264.io
   - +.h2o.ai
   - +.h2porn.com
   - +.h528.com
@@ -11138,6 +11149,7 @@ payload:
   - +.hippyhillscomix.com
   - +.hipzoom.net
   - +.hiroshimabank.co.jp
+  - +.historylines.net
   - +.historyofdota.com
   - +.historyofdota.net
   - +.historyofdota.org
@@ -13654,6 +13666,7 @@ payload:
   - +.kiwi.jp
   - +.kiwi.kz
   - +.kiwibrowser.com
+  - +.kiwix.org
   - +.kiyobank.co.jp
   - +.kk-whys.co.jp
   - +.kk.stream
@@ -14049,6 +14062,7 @@ payload:
   - +.linux.do
   - +.linux.org
   - +.linux.org.hk
+  - +.linux.sb
   - +.linuxfoundation.org
   - +.linuxfromscratch.org
   - +.linuxmint.com
@@ -14775,6 +14789,7 @@ payload:
   - +.mcdonaldsapps.com
   - +.mcdonaldsarabia.com
   - +.mcdonaldsparties.co.nz
+  - +.mceindex.com
   - +.mcisco.com
   - +.mcpeaceofmind.com
   - +.mcrouter.net
@@ -15116,6 +15131,7 @@ payload:
   - +.milftube.pro
   - +.milftugs.com
   - +.milfvr.com
+  - +.milfy.com
   - +.milfzr.com
   - +.miliav.com
   - +.milkmanbook.com
@@ -16501,6 +16517,7 @@ payload:
   - +.nftstorage.link
   - +.nga.mil
   - +.ngeo.com
+  - +.ngfiles.com
   - +.nginx.com
   - +.nginx.org
   - +.nginxconfig.io
@@ -16807,6 +16824,7 @@ payload:
   - +.nodequality.com
   - +.nodereal.io
   - +.nodeseek.com
+  - +.nodeseek.org
   - +.nodesource.com
   - +.noisullifb.com
   - +.nokiantyres.com
@@ -17505,6 +17523,7 @@ payload:
   - +.ourshemales.com
   - +.oursteps.com.au
   - +.ourtv.hk
+  - +.ouryahoo.com
   - +.out-app-purchase.com
   - +.outbound.io
   - +.outdoorpublicsex.com
@@ -19051,6 +19070,7 @@ payload:
   - +.qt-project.org
   - +.qt.io
   - +.qtrac.eu
+  - +.quakemachinex.com
   - +.qualcomm-email.com
   - +.qualcomm-inc.com
   - +.qualcomm.co.id
@@ -19432,6 +19452,7 @@ payload:
   - +.relateiq.com
   - +.religionnews.com
   - +.remirepo.net
+  - +.remna.st
   - +.rencapbank.ru
   - +.renchead.com
   - +.rencredit.ru
@@ -19582,6 +19603,7 @@ payload:
   - +.roborecall.com
   - +.robotoffice.com
   - +.robustnessiskey.com
+  - +.roc-taiwan.org
   - +.rocket-inc.net
   - +.rocket.chat
   - +.rocketfishproducts.com
@@ -19626,6 +19648,7 @@ payload:
   - +.roudaosp.cc
   - +.roughebonysex.com
   - +.roughman.net
+  - +.roushuwo.com
   - +.routerboard.com
   - +.routledgehandbooks.com
   - +.rowblocks.com
@@ -20746,6 +20769,7 @@ payload:
   - +.slashine.onl
   - +.slavbank.ru
   - +.slavicstar.com
+  - +.slayed.com
   - +.slc.tl
   - +.sldolls.com
   - +.sleazyfork.org
@@ -21464,6 +21488,9 @@ payload:
   - +.stripchat.com
   - +.stripe-terminal-local-reader.net
   - +.stripe.com
+  - +.stripe.dev
+  - +.stripe.events
+  - +.stripe.global
   - +.stripe.network
   - +.stripecdn.com
   - +.stripparadise.com
@@ -21740,6 +21767,7 @@ payload:
   - +.taipeitimes.com
   - +.taisounds.com
   - +.taiwanadultexpo.com
+  - +.taiwanembassy.org
   - +.taiwanhot.net
   - +.taiwanjustice.net
   - +.taiwanncf.org.tw
@@ -22768,6 +22796,7 @@ payload:
   - +.tusco.ru
   - +.tushy.com
   - +.tushycash.com
+  - +.tushyraw.com
   - +.tuta.com
   - +.tuta.io
   - +.tutamail.com
@@ -23752,6 +23781,7 @@ payload:
   - +.vivaxnxx.com
   - +.vivthomas.com
   - +.vixen.com
+  - +.vixengroup.com
   - +.vixvids.to
   - +.vjav.com
   - +.vjmedia.com.hk
@@ -24769,6 +24799,7 @@ payload:
   - +.wpoforum.com
   - +.wpvip.com
   - +.wrenchead.com
+  - +.write.as
   - +.writesonic.com
   - +.ws-blau.com
   - +.ws-tcg.com
@@ -24781,6 +24812,7 @@ payload:
   - +.wsjplus.com
   - +.wsjshop.com
   - +.wsjwine.com
+  - +.wtfpass.com
   - +.wtfpeople.com
   - +.wtmobile.com
   - +.wto.org
@@ -24882,6 +24914,7 @@ payload:
   - +.x3guide.com
   - +.x3vid.com
   - +.x6av.com
+  - +.x86.fr
   - +.x99av.com
   - +.xamarin.com
   - +.xandr.com
@@ -25627,6 +25660,7 @@ payload:
   - +.yahoodns.net
   - +.yahoofinance.com
   - +.yahoohealth.com
+  - +.yahooinc.com
   - +.yahoomusic.com
   - +.yahoosandbox.com
   - +.yahoosportsbook.com
@@ -26580,6 +26614,7 @@ payload:
   - img-s-msn-com.akamaized.net
   - impala-media-production.s3.amazonaws.com
   - imperial.insendi.com
+  - lastfm-img.freetls.fastly.net
   - lastfm.freetls.fastly.net
   - lazer.ppy.sh
   - lgcscc-hamivideo2.cdn.hinet.net
@@ -26664,6 +26699,7 @@ payload:
   - origin-a.akamaihd.net
   - osu.ppy.sh
   - p-events-delivery.akamaized.net
+  - p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
   - p16-tiktokcdn-com.akamaized.net
   - packages.microsoft.com
   - paper-attachments.s3.amazonaws.com
