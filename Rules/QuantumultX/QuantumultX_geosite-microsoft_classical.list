@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-09-18 13:02:56
+# UPDATED: 2026-10-09 21:11:30
 # HOST: 114
-# HOST-SUFFIX: 634
-# TOTAL: 748
+# HOST-SUFFIX: 635
+# TOTAL: 749
 
 HOST,img-prod-cms-rt-microsoft-com.akamaized.net,DIRECT
 HOST,img-s-msn-com.akamaized.net,DIRECT
@@ -506,10 +506,10 @@ HOST-SUFFIX,octocaptcha.com,DIRECT
 HOST-SUFFIX,opensource.guide,DIRECT
 HOST-SUFFIX,repo.new,DIRECT
 HOST-SUFFIX,thegithubshop.com,DIRECT
-HOST-SUFFIX,githubcopilot.com,DIRECT
 HOST-SUFFIX,npm.community,DIRECT
 HOST-SUFFIX,npmjs.com,DIRECT
 HOST-SUFFIX,npmjs.org,DIRECT
+HOST-SUFFIX,githubcopilot.com,DIRECT
 HOST-SUFFIX,adaptivecards.io,DIRECT
 HOST-SUFFIX,api-extractor.com,DIRECT
 HOST-SUFFIX,apisof.net,DIRECT
@@ -749,6 +749,7 @@ HOST-SUFFIX,ditu.live.com,DIRECT
 HOST-SUFFIX,r.bing.com,DIRECT
 HOST-SUFFIX,th.bing.com,DIRECT
 HOST,bj1.api.bing.com,DIRECT
+HOST-SUFFIX,cafe.github.com,DIRECT
 HOST-SUFFIX,collector.github.com,DIRECT
 HOST,copilot-telemetry-service.githubusercontent.com,DIRECT
 HOST,copilot-telemetry.githubusercontent.com,DIRECT

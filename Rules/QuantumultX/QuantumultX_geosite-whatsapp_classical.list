@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-09-18 13:02:41
-# HOST-SUFFIX: 13
-# TOTAL: 13
+# UPDATED: 2026-10-09 21:11:15
+# HOST-SUFFIX: 11
+# TOTAL: 11
 
 HOST-SUFFIX,wa.me,PROXY
 HOST-SUFFIX,whatsapp-plus.info,PROXY
@@ -18,5 +18,3 @@ HOST-SUFFIX,whatsapp.net,PROXY
 HOST-SUFFIX,whatsapp.org,PROXY
 HOST-SUFFIX,whatsapp.tv,PROXY
 HOST-SUFFIX,whatsappbrand.com,PROXY
-HOST-SUFFIX,graph.whatsapp.com,PROXY
-HOST-SUFFIX,graph.whatsapp.net,PROXY

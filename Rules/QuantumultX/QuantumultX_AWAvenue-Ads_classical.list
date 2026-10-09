@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-09-18 13:02:01
-# HOST: 936
+# UPDATED: 2026-10-09 21:10:37
+# HOST: 949
 # HOST-SUFFIX: 12
-# TOTAL: 948
+# TOTAL: 961
 
 HOST,1500020991.vodplayer.wxamedia.com,REJECT
 HOST,1500022744.vodplayer.wxamedia.com,REJECT
@@ -82,6 +82,7 @@ HOST,adks.hpplay.cn,REJECT
 HOST,adlink-api.huan.tv,REJECT
 HOST,adlog.vivo.com.cn,REJECT
 HOST,adm.funshion.com,REJECT
+HOST,adm.zhangyuyidong.cn,REJECT
 HOST,admarketing.yahoo.net,REJECT
 HOST,admobile.top,REJECT
 HOST,adreq.vivo.com.cn,REJECT
@@ -146,6 +147,7 @@ HOST,adsfs.heytapimage.com,REJECT
 HOST,adsfs.oppomobile.com,REJECT
 HOST,adslvfile.qq.com,REJECT
 HOST,adsmart.konka.com,REJECT
+HOST,adsmartget.datads.cn,REJECT
 HOST,adsmind.gdtimg.com,REJECT
 HOST,adsmind.ugdtimg.com,REJECT
 HOST,adsmoloco.com,REJECT
@@ -362,6 +364,7 @@ HOST,data.mistat.rus.xiaomi.com,REJECT
 HOST,data.mistat.xiaomi.com,REJECT
 HOST,datacollection.uve.weibo.com,REJECT
 HOST,dc.sigmob.cn,REJECT
+HOST,de.ad.gameley.com,REJECT
 HOST,de.tynt.com,REJECT
 HOST,diagnosis.ad.xiaomi.com,REJECT
 HOST,dlogs.bwton.com,REJECT
@@ -489,6 +492,7 @@ HOST,ixav-cse.avlyun.com,REJECT
 HOST,iyfbodn.com,REJECT
 HOST,janapi.jd.com,REJECT
 HOST,jiguang.cn,REJECT
+HOST,jp.ad.gameley.com,REJECT
 HOST,jpush.cn,REJECT
 HOST,jpush.html5.qq.com,REJECT
 HOST,jpush.io,REJECT
@@ -602,6 +606,7 @@ HOST,monitor.music.qq.com,REJECT
 HOST,monitor.uu.qq.com,REJECT
 HOST,monsetting.toutiao.com,REJECT
 HOST,mores.toponad.com,REJECT
+HOST,mpcfg.fancydsp.com,REJECT
 HOST,ms.applovin.com,REJECT
 HOST,ms.applvn.com,REJECT
 HOST,ms4.applovin.com,REJECT
@@ -663,6 +668,8 @@ HOST,pcm-img.zhls.qq.com,REJECT
 HOST,pgdt.gtimg.cn,REJECT
 HOST,pgdt.ugdtimg.com,REJECT
 HOST,pglstatp-toutiao.com,REJECT
+HOST,pica-a-display.diwodiwo.xyz,REJECT
+HOST,pica-ad-api.diwodiwo.xyz,REJECT
 HOST,pig.pupuapi.com,REJECT
 HOST,pin.hpplay.cn,REJECT
 HOST,pixon.ads-pixiv.net,REJECT
@@ -716,16 +723,20 @@ HOST,saxysec.com,REJECT
 HOST,scs.openspeech.cn,REJECT
 HOST,sdk-ab-config.qquanquan.com,REJECT
 HOST,sdk-cache.video.ptqy.gitv.tv,REJECT
+HOST,sdk-track.66mobi.com,REJECT
 HOST,sdk.1rtb.net,REJECT
 HOST,sdk.ad.smaato.net,REJECT
+HOST,sdk.adhuanxiao.com,REJECT
 HOST,sdk.adx.adwangmai.com,REJECT
 HOST,sdk.aqyad.com,REJECT
 HOST,sdk.beizi.biz,REJECT
 HOST,sdk.cferw.com,REJECT
 HOST,sdk.e.qq.com,REJECT
 HOST,sdk.hzsanjiaomao.com,REJECT
+HOST,sdk.hzzfcm.com,REJECT
 HOST,sdk.markmedia.com.cn,REJECT
 HOST,sdk.mobads.adwangmai.com,REJECT
+HOST,sdk.zhangyuyidong.cn,REJECT
 HOST,sdkapi.cloooud.com,REJECT
 HOST,sdkapp.uve.weibo.com,REJECT
 HOST,sdkauth.hpplay.cn,REJECT
@@ -734,6 +745,7 @@ HOST,sdkconfig.ad.intl.xiaomi.com,REJECT
 HOST,sdkconfig.ad.xiaomi.com,REJECT
 HOST,sdkconfig.play.aiseet.atianqi.com,REJECT
 HOST,sdkconfig.video.qq.com,REJECT
+HOST,sdklog.zhangyuyidong.cn,REJECT
 HOST,sdkoptedge.chinanetcenter.com,REJECT
 HOST,sdkreport.e.qq.com,REJECT
 HOST,sdktmp.hubcloud.com.cn,REJECT
@@ -926,6 +938,7 @@ HOST,wxsnsad.tc.qq.com,REJECT
 HOST,wxsnsdy.tc.qq.com,REJECT
 HOST,wxsnsdy.wxs.qq.com,REJECT
 HOST,wxsnsdythumb.wxs.qq.com,REJECT
+HOST,xadsmartget.adgain.cn,REJECT
 HOST,xc.gdt.qq.com,REJECT
 HOST,xcx.dcad01.com,REJECT
 HOST,xiaomi-dtv.m.cn.miaozhen.com,REJECT

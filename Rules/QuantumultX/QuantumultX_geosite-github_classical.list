@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-09-18 13:02:47
+# UPDATED: 2026-10-09 21:11:21
 # HOST: 32
-# HOST-SUFFIX: 32
-# TOTAL: 64
+# HOST-SUFFIX: 33
+# TOTAL: 65
 
 HOST,github-api.arkoselabs.com,PROXY
 HOST,github-cloud.s3.amazonaws.com,PROXY
@@ -65,10 +65,11 @@ HOST-SUFFIX,octocaptcha.com,PROXY
 HOST-SUFFIX,opensource.guide,PROXY
 HOST-SUFFIX,repo.new,PROXY
 HOST-SUFFIX,thegithubshop.com,PROXY
-HOST-SUFFIX,githubcopilot.com,PROXY
 HOST-SUFFIX,npm.community,PROXY
 HOST-SUFFIX,npmjs.com,PROXY
 HOST-SUFFIX,npmjs.org,PROXY
+HOST-SUFFIX,githubcopilot.com,PROXY
+HOST-SUFFIX,cafe.github.com,PROXY
 HOST-SUFFIX,collector.github.com,PROXY
 HOST,copilot-telemetry-service.githubusercontent.com,PROXY
 HOST,copilot-telemetry.githubusercontent.com,PROXY

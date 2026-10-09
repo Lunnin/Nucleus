@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-09-18 13:02:08
+# UPDATED: 2026-10-09 21:10:45
 # HOST: 1
 # HOST-SUFFIX: 52
 # TOTAL: 53
@@ -38,6 +38,12 @@ HOST-SUFFIX,huasheng.cn,DIRECT
 HOST-SUFFIX,im9.com,DIRECT
 HOST-SUFFIX,updream.cn,DIRECT
 HOST-SUFFIX,yo9.com,DIRECT
+HOST-SUFFIX,bilibiligame.cn,DIRECT
+HOST-SUFFIX,bilibiligame.co,DIRECT
+HOST-SUFFIX,bilibiligame.net,DIRECT
+HOST-SUFFIX,biligame.co,DIRECT
+HOST-SUFFIX,biligame.com,DIRECT
+HOST-SUFFIX,biligame.net,DIRECT
 HOST-SUFFIX,bilicdn1.com,DIRECT
 HOST-SUFFIX,bilicdn2.com,DIRECT
 HOST-SUFFIX,bilicdn3.com,DIRECT
@@ -51,12 +57,6 @@ HOST-SUFFIX,hdslb.com,DIRECT
 HOST-SUFFIX,hdslb.org,DIRECT
 HOST-SUFFIX,maoercdn.com,DIRECT
 HOST-SUFFIX,mincdn.com,DIRECT
-HOST-SUFFIX,bilibiligame.cn,DIRECT
-HOST-SUFFIX,bilibiligame.co,DIRECT
-HOST-SUFFIX,bilibiligame.net,DIRECT
-HOST-SUFFIX,biligame.co,DIRECT
-HOST-SUFFIX,biligame.com,DIRECT
-HOST-SUFFIX,biligame.net,DIRECT
 HOST-SUFFIX,bilibili.tv,DIRECT
 HOST-SUFFIX,biliintl.com,DIRECT
 HOST-SUFFIX,dreamcast.hk,DIRECT

@@ -3,12 +3,14 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Ipcidr 类型
-# UPDATED: 2026-09-18 09:38:57
-# IP-CIDR: 34
+# UPDATED: 2026-10-09 20:47:37
+# IP-CIDR: 36
 # IP-CIDR6: 86
-# TOTAL: 120
+# TOTAL: 122
 
 payload:
+  - 9.187.0.0/16
+  - 9.188.0.0/16
   - 23.246.0.0/18
   - 37.77.184.0/21
   - 45.57.0.0/17

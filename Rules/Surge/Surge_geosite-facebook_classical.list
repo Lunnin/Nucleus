@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Surge 规则中的 RULE-SET 类型
-# UPDATED: 2026-09-18 13:10:43
+# UPDATED: 2026-10-09 21:22:57
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 395
-# TOTAL: 396
+# DOMAIN-SUFFIX: 396
+# TOTAL: 397
 
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,aboutfacebook.com
@@ -105,10 +105,9 @@ DOMAIN-SUFFIX,facebook.ca
 DOMAIN-SUFFIX,facebook.cc
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.design
-DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,facebook.hu
 DOMAIN-SUFFIX,facebook.in
-DOMAIN-SUFFIX,fecebook.net
+DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,facebook.nl
 DOMAIN-SUFFIX,facebook.org
 DOMAIN-SUFFIX,facebook.se
@@ -315,6 +314,7 @@ DOMAIN-SUFFIX,fecbbok.com
 DOMAIN-SUFFIX,fecbooc.com
 DOMAIN-SUFFIX,fecbook.com
 DOMAIN-SUFFIX,feceboock.com
+DOMAIN-SUFFIX,fecebook.net
 DOMAIN-SUFFIX,feceboox.com
 DOMAIN-SUFFIX,fececbook.com
 DOMAIN-SUFFIX,feook.com
@@ -384,6 +384,7 @@ DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
 DOMAIN-SUFFIX,supportfacebook.com
 DOMAIN-SUFFIX,terragraph.com
+DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,thefacebook.com
 DOMAIN-SUFFIX,thefacebook.net
 DOMAIN-SUFFIX,thefind.com

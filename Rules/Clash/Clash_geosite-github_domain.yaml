@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Clash 规则中的 Domain 类型
-# UPDATED: 2026-09-18 09:16:21
+# UPDATED: 2026-10-09 20:46:32
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32
-# TOTAL: 64
+# DOMAIN-SUFFIX: 33
+# TOTAL: 65
 
 payload:
   - github-api.arkoselabs.com
@@ -66,10 +66,11 @@ payload:
   - +.opensource.guide
   - +.repo.new
   - +.thegithubshop.com
-  - +.githubcopilot.com
   - +.npm.community
   - +.npmjs.com
   - +.npmjs.org
+  - +.githubcopilot.com
+  - +.cafe.github.com
   - +.collector.github.com
   - copilot-telemetry-service.githubusercontent.com
   - copilot-telemetry.githubusercontent.com

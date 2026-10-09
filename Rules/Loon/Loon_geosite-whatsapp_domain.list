@@ -3,9 +3,9 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Loon 规则中的 Domain 类型
-# UPDATED: 2026-09-18 13:00:24
-# HOST-SUFFIX: 13
-# TOTAL: 13
+# UPDATED: 2026-10-09 21:08:05
+# HOST-SUFFIX: 11
+# TOTAL: 11
 
 .wa.me
 .whatsapp-plus.info
@@ -18,5 +18,3 @@
 .whatsapp.org
 .whatsapp.tv
 .whatsappbrand.com
-.graph.whatsapp.com
-.graph.whatsapp.net

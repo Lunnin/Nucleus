@@ -3,7 +3,7 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型，添加 no-resolve 参数
-# UPDATED: 2026-09-18 13:02:37
+# UPDATED: 2026-10-09 21:11:11
 # TOTAL: 0
 
 IP-CIDR,31.13.24.0/21,PROXY,no-resolve
@@ -48,10 +48,8 @@ IP-CIDR,129.134.144.0/24,PROXY,no-resolve
 IP-CIDR,129.134.148.0/23,PROXY,no-resolve
 IP-CIDR,129.134.150.0/24,PROXY,no-resolve
 IP-CIDR,129.134.154.0/23,PROXY,no-resolve
-IP-CIDR,129.134.156.0/24,PROXY,no-resolve
-IP-CIDR,129.134.158.0/23,PROXY,no-resolve
-IP-CIDR,129.134.161.0/24,PROXY,no-resolve
-IP-CIDR,129.134.162.0/23,PROXY,no-resolve
+IP-CIDR,129.134.156.0/22,PROXY,no-resolve
+IP-CIDR,129.134.160.0/22,PROXY,no-resolve
 IP-CIDR,129.134.164.0/23,PROXY,no-resolve
 IP-CIDR,129.134.168.0/21,PROXY,no-resolve
 IP-CIDR,129.134.176.0/20,PROXY,no-resolve
@@ -62,10 +60,11 @@ IP-CIDR,157.240.128.0/23,PROXY,no-resolve
 IP-CIDR,157.240.131.0/24,PROXY,no-resolve
 IP-CIDR,157.240.132.0/24,PROXY,no-resolve
 IP-CIDR,157.240.134.0/24,PROXY,no-resolve
-IP-CIDR,157.240.137.0/24,PROXY,no-resolve
+IP-CIDR,157.240.136.0/23,PROXY,no-resolve
 IP-CIDR,157.240.139.0/24,PROXY,no-resolve
 IP-CIDR,157.240.140.0/24,PROXY,no-resolve
-IP-CIDR,157.240.156.0/22,PROXY,no-resolve
+IP-CIDR,157.240.156.0/23,PROXY,no-resolve
+IP-CIDR,157.240.158.0/24,PROXY,no-resolve
 IP-CIDR,157.240.169.0/24,PROXY,no-resolve
 IP-CIDR,157.240.170.0/24,PROXY,no-resolve
 IP-CIDR,157.240.175.0/24,PROXY,no-resolve
@@ -78,6 +77,7 @@ IP-CIDR,157.240.192.0/18,PROXY,no-resolve
 IP-CIDR,163.70.128.0/17,PROXY,no-resolve
 IP-CIDR,163.77.132.0/23,PROXY,no-resolve
 IP-CIDR,163.77.136.0/23,PROXY,no-resolve
+IP-CIDR,163.77.160.0/20,PROXY,no-resolve
 IP-CIDR,163.114.128.0/20,PROXY,no-resolve
 IP-CIDR,173.252.64.0/18,PROXY,no-resolve
 IP-CIDR,179.60.192.0/22,PROXY,no-resolve
@@ -86,20 +86,17 @@ IP-CIDR,185.89.216.0/22,PROXY,no-resolve
 IP-CIDR,199.201.64.0/22,PROXY,no-resolve
 IP-CIDR,204.15.20.0/22,PROXY,no-resolve
 IP6-CIDR,2620:0:1c00::/40,PROXY,no-resolve
-IP6-CIDR,2620:10d:c090::/45,PROXY,no-resolve
-IP6-CIDR,2620:10d:c098::/47,PROXY,no-resolve
-IP6-CIDR,2620:10d:c09b::/48,PROXY,no-resolve
-IP6-CIDR,2620:10d:c09c::/46,PROXY,no-resolve
+IP6-CIDR,2620:10d:c090::/44,PROXY,no-resolve
 IP6-CIDR,2a03:2880::/32,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff00::/48,PROXY,no-resolve
-IP6-CIDR,2a03:2887:ff02::/47,PROXY,no-resolve
+IP6-CIDR,2a03:2887:ff03::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff04::/46,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff09::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff0a::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff1b::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff1e::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff20::/48,PROXY,no-resolve
-IP6-CIDR,2a03:2887:ff23::/48,PROXY,no-resolve
+IP6-CIDR,2a03:2887:ff22::/47,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff27::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff28::/46,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff2e::/47,PROXY,no-resolve
@@ -107,9 +104,8 @@ IP6-CIDR,2a03:2887:ff30::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff33::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff37::/48,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff38::/46,PROXY,no-resolve
-IP6-CIDR,2a03:2887:ff3e::/48,PROXY,no-resolve
-IP6-CIDR,2a03:2887:ff41::/48,PROXY,no-resolve
-IP6-CIDR,2a03:2887:ff42::/47,PROXY,no-resolve
+IP6-CIDR,2a03:2887:ff3e::/47,PROXY,no-resolve
+IP6-CIDR,2a03:2887:ff40::/46,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff44::/47,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff48::/46,PROXY,no-resolve
 IP6-CIDR,2a03:2887:ff4d::/48,PROXY,no-resolve

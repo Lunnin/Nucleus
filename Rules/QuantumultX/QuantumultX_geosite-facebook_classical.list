@@ -3,10 +3,10 @@
 # AUTHOR: https://github.com/Lunnin
 # TG_CHANNEL: https://t.me/NextCCB
 # DESC: 适用于 Quantumult X 规则中的 Classical 类型
-# UPDATED: 2026-09-18 13:02:36
+# UPDATED: 2026-10-09 21:11:10
 # HOST: 1
-# HOST-SUFFIX: 395
-# TOTAL: 396
+# HOST-SUFFIX: 396
+# TOTAL: 397
 
 HOST,fbcdn-a.akamaihd.net,PROXY
 HOST-SUFFIX,aboutfacebook.com,PROXY
@@ -105,10 +105,9 @@ HOST-SUFFIX,facebook.ca,PROXY
 HOST-SUFFIX,facebook.cc,PROXY
 HOST-SUFFIX,facebook.com,PROXY
 HOST-SUFFIX,facebook.design,PROXY
-HOST-SUFFIX,facebook.net,PROXY
 HOST-SUFFIX,facebook.hu,PROXY
 HOST-SUFFIX,facebook.in,PROXY
-HOST-SUFFIX,fecebook.net,PROXY
+HOST-SUFFIX,facebook.net,PROXY
 HOST-SUFFIX,facebook.nl,PROXY
 HOST-SUFFIX,facebook.org,PROXY
 HOST-SUFFIX,facebook.se,PROXY
@@ -315,6 +314,7 @@ HOST-SUFFIX,fecbbok.com,PROXY
 HOST-SUFFIX,fecbooc.com,PROXY
 HOST-SUFFIX,fecbook.com,PROXY
 HOST-SUFFIX,feceboock.com,PROXY
+HOST-SUFFIX,fecebook.net,PROXY
 HOST-SUFFIX,feceboox.com,PROXY
 HOST-SUFFIX,fececbook.com,PROXY
 HOST-SUFFIX,feook.com,PROXY
@@ -384,6 +384,7 @@ HOST-SUFFIX,sportsfacebook.com,PROXY
 HOST-SUFFIX,sportstream.com,PROXY
 HOST-SUFFIX,supportfacebook.com,PROXY
 HOST-SUFFIX,terragraph.com,PROXY
+HOST-SUFFIX,tfbnw.net,PROXY
 HOST-SUFFIX,thefacebook.com,PROXY
 HOST-SUFFIX,thefacebook.net,PROXY
 HOST-SUFFIX,thefind.com,PROXY
